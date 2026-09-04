@@ -1,0 +1,25 @@
+ENGLISH-JAPANESE CORPUS CLEANING SUMMARY
+============================================================
+
+Total Records           : 500,000
+KEEP Records            : 466,483
+CLEAN Records           : 12,613
+REMOVE Records          : 20,904
+Duplicate Removed       : 0
+Final Written Records   : 479,096
+Preserved Percentage    : 95.82%
+Removed Percentage      : 4.18%
+
+============================================================
+CLEANING REASONS
+============================================================
+excessive_repeated_characters                     9,374
+no_japanese_script                                9,118
+removed_copied_latin_edge                         5,483
+removed_foreign_script                            2,813
+removed_unmatched_symbol                          2,810
+insufficient_japanese_content                     2,000
+removed_unmatched_emoji                           1,663
+excessive_symbol_noise                            205
+excessive_numeric_noise                           158
+excessive_repeated_tokens                         49

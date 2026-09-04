@@ -1,0 +1,22 @@
+{
+    "total_records": 500000,
+    "keep_records": 466483,
+    "clean_records": 12613,
+    "remove_records": 20904,
+    "duplicate_removed": 0,
+    "final_written_records": 479096,
+    "preserved_percentage": 95.82,
+    "removed_percentage": 4.18,
+    "cleaning_reasons": {
+        "excessive_repeated_characters": 9374,
+        "removed_foreign_script": 2813,
+        "no_japanese_script": 9118,
+        "removed_copied_latin_edge": 5483,
+        "removed_unmatched_symbol": 2810,
+        "removed_unmatched_emoji": 1663,
+        "insufficient_japanese_content": 2000,
+        "excessive_numeric_noise": 158,
+        "excessive_repeated_tokens": 49,
+        "excessive_symbol_noise": 205
+    }
+}

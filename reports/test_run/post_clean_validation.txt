@@ -1,0 +1,11 @@
+POST-CLEAN VALIDATION REPORT
+============================================================
+
+Total Records              : 8,915
+Empty English              : 0
+Empty Japanese             : 0
+No Japanese Script          : 0
+Foreign Script Remaining    : 0
+Duplicate EN-JA Pairs       : 0
+
+Validation Status           : PASS

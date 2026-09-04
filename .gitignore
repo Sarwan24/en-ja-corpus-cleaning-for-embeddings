@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Large/full datasets
+data/full/
+data/temp/
+
+# DuckDB temporary files
+*.duckdb
+*.duckdb.wal
+
+# Parquet datasets
+*.parquet
+
+# Generated large reports if not needed
+reports/full_run/
+
+# OS
+.DS_Store
+Thumbs.db
